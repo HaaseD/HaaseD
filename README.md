@@ -1,5 +1,6 @@
-Hi, I’m @HaaseD
-Nice to meet you.
+Hi, I’m @HaaseD.
+
+_Nice to meet you ;-)_
 
 <!---
 HaaseD/HaaseD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
