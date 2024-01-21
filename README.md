@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HaaseD
-- 👀 I’m interested in Computerquatsch.
+Hi, I’m @HaaseD
+Nice to meet you.
 
 <!---
 HaaseD/HaaseD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
